@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Addicted To You (Avicii By Avicii)",
+  "base_artist": "Avicii",
+  "createdAt": "2026-03-19T02:17:44.456114Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Addicted To You (Avicii By Avicii)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/01_Addicted_To_You_(Avicii_By_Avicii)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Addicted to You (Avicii by Avicii)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/02_Addicted_to_You_(Avicii_by_Avicii)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Addicted To You (Avicii By Avicii)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/03_Addicted_To_You_(Avicii_By_Avicii)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Addicted To You (Avicii By Avicii)",
+      "artist": "Verschiedene",
+      "has_synced": true,
+      "path": "select/04_Addicted_To_You_(Avicii_By_Avicii)_Verschiedene.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Addicted To You - Avicii By Avicii",
+      "artist": "Avicii, Tim Bergling",
+      "has_synced": true,
+      "path": "select/05_Addicted_To_You_-_Avicii_By_Avicii_Avicii,_Tim_Bergling.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Addicted To You - Avicii By Avicii",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/06_Addicted_To_You_-_Avicii_By_Avicii_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Addicted to You (Avicii by Avicii) / Snake",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/07_Addicted_to_You_(Avicii_by_Avicii)___Snake_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Addicted To You - Avicii By Avicii",
+      "artist": "Avicii/Tim Bergling",
+      "has_synced": true,
+      "path": "select/08_Addicted_To_You_-_Avicii_By_Avicii_Avicii_Tim_Bergling.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Addicted to you (Avicii By Avicii)",
+      "artist": "Avicii ft Audra Mae",
+      "has_synced": true,
+      "path": "select/09_Addicted_to_you_(Avicii_By_Avicii)_Avicii_ft_Audra_Mae.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Addicted To You ( By )",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/10_Addicted_To_You_(_By_)_Avicii.lrc"
+    }
+  ]
+}
