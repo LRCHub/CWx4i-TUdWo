@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Addicted To You (Avicii By Avicii)",
   "base_artist": "Avicii",
-  "createdAt": "2026-03-19T02:17:44.456114Z",
+  "createdAt": "2026-03-19T02:21:41.280719Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -83,6 +83,15 @@
       "artist": "Avicii",
       "has_synced": true,
       "path": "select/10_Addicted_To_You_(_By_)_Avicii.lrc"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Addicted To You (Avicii By Avicii)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/localdb_01_Addicted_To_You_(Avicii_By_Avicii)_Avicii.lrc",
+      "repo_name": "CWx4i-TUdWo"
     }
   ]
 }
